@@ -11,6 +11,11 @@ Barranco was composed by:
 
 ## Documentation
 
+### Pictures
+
+![](https://github.com/guillemontecinos/barranco/blob/master/documentation/barranco0.jpg)
+![](https://github.com/guillemontecinos/barranco/blob/master/documentation/barranco1.jpg)
+
 ### Videos
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/manuel.jpg)](https://www.youtube.com/watch?v=-bneJPOdMGM)
 Manuel (live at Onaciú)
@@ -26,5 +31,3 @@ Solcito
 
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/disfraz.jpg)](https://vimeo.com/147774565)
 Disfraz
-
-### Pictures
