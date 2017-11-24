@@ -12,7 +12,12 @@ Barranco was composed by:
 ## Documentation
 
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/manuel.jpg)](https://www.youtube.com/watch?v=-bneJPOdMGM)
+Manuel (live at Onaciú)
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/nubosidad.jpg)](https://www.youtube.com/watch?v=BrQhQW23kBs)
+Nubosidad Parcial (Session)
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/hombre_de_mar.jpg)](https://www.youtube.com/watch?v=FeXqXKrAoG0)
+Hombre de Mar (live at Cinexcusas)
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/solcito.jpg)](https://vimeo.com/147775274)
+Solcito
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/disfraz.jpg)](https://vimeo.com/147774565)
+Disfraz
