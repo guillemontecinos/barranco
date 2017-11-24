@@ -11,7 +11,7 @@ Barranco was composed by:
 
 ## Documentation
 
-* [Manuel - Onaciú](https://www.youtube.com/watch?v=-bneJPOdMGM)
+* [![Manuel - Onaciú](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/manuel.jpg)](https://www.youtube.com/watch?v=-bneJPOdMGM)
 * [Nubosidad Parcial](https://www.youtube.com/watch?v=BrQhQW23kBs)
 * [Hombre de Mar - Cinexcusas](https://www.youtube.com/watch?v=FeXqXKrAoG0)
 * [Solcito](https://vimeo.com/147775274)
