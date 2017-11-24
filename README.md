@@ -7,6 +7,6 @@ Barranco was composed by:
 * [Guillermo Montecinos](http://guillemontecinos.cl/)
 * [Javier Bermúdez](https://cl.linkedin.com/in/javier-agustin-berm%C3%BAdez-r%C3%ADos-b42629a2)
 * [Nicolás Peña](http://nicolaspe.com/)
-* Sebastin Santelices
+* Sebastián Santelices
 
 ## Documentation
