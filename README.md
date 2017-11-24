@@ -15,7 +15,7 @@ Barranco was composed by:
 
 ![](https://github.com/guillemontecinos/barranco/blob/master/documentation/barranco0.jpg)
 ![](https://github.com/guillemontecinos/barranco/blob/master/documentation/barranco1.jpg)
-[*Pictures by Antonio Balic*](http://www.balicbecerra.cl/contact/)
+[*Pictures by Antonio Balic*](http://www.balicbecerra.cl/)
 
 ### Videos
 [![](https://github.com/guillemontecinos/barranco/blob/master/documentation/screenshots/manuel.jpg)](https://www.youtube.com/watch?v=-bneJPOdMGM)
