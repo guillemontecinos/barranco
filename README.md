@@ -1,7 +1,7 @@
 # Barranco
 
 ## About
-Barranco is a Chilean based music project which existed between 2013 and 2015.
+Barranco was a Chilean based music project active between 2013 and 2015. Their work was inspired by the exploration of delayed guitars rock sounds.
 Barranco was composed by:
 * [Aarón Montoya-Moraga](http://montoyamoraga.io/): bass, production
 * [Guillermo Montecinos](http://guillemontecinos.cl/): vocals, guitar
